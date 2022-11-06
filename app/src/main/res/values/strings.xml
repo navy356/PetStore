@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetStore</string>
+    <string name="title_petlist_activitity">PetList</string>
+    <string name="title_petdisplay_activitity">PetList</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
